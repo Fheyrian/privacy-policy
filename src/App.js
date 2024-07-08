@@ -67,6 +67,9 @@ function App() {
                   <p>Information regarding your location</p>
                 </li>
                 <li>
+                  <p>Information regarding your bluetooth address</p>
+                </li>
+                <li>
                   <p>Pictures and other information from your Device's camera and photo library</p>
                 </li>
                 </ul>
